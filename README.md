@@ -1,2 +1,2 @@
 # Public-Land-by-State
-Graduated circle map showing different proportions of public land by state
+This is a graduated circle map showing the varying proportion of public land vs. private land for each state in the US. 
